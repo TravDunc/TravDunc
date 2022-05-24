@@ -1,4 +1,4 @@
-<h1>Hello, I'm Travis! <br/><a href="https://github.com/TravDunc">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/travis-w-duncan/">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Travis! <br/><a href="https://github.com/TravDunc">Github User</a>, <a href="https://www.linkedin.com/in/travis-w-duncan/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Azure Projects:</h2>
 
