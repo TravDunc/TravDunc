@@ -1,13 +1,15 @@
-<h1>Hello, I'm Travis! <br/><a href="https://github.com/TravDunc">Github User</a>, <a href="https://www.linkedin.com/in/travis-w-duncan/">Certified Information Systems Security Professional</a></h1>
+<h1>Hello, I'm Travis! <br/><a href="https://github.com/TravDunc">Github User</a>, Certified Information Systems Security Professional (CISSP)</h1>
 
 <h2>👨‍💻 Python Projects:</h2>
-- [Placeholder](https://github.com/TravDunc/)
+- <a href="https://github.com/TravDunc/">"FizzBuzz"</a>
+
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="TravisDuncan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/travis-w-duncan
+
 
 <!--
 **TravDunc/TravDunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
