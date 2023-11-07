@@ -6,9 +6,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="TravisDuncan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/travis-w-duncan
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="travis-w-duncan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/travis-w-duncan?trk=profile-badge">Travis Duncan</a></div>
 
 
 <!--
