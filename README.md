@@ -1,8 +1,8 @@
 <h1>Hello, I'm Travis! <br/><a href="https://github.com/TravDunc">Github User</a>, Certified Information Systems Security Professional (CISSP)</h1>
 
 <h2>👨‍💻 Python Projects:</h2>
-- <a href="https://github.com/TravDunc/">"FizzBuzz"</a><br>
-- <a href="https://github.com/TravDunc/Number-Guessing-Game">"Number-Guessing-Game"</a>
+- <a href="https://github.com/TravDunc/">FizzBuzz</a><br>
+- <a href="https://github.com/TravDunc/Number-Guessing-Game">Number-Guessing-Game</a>
 
 <h2> 🤳 Connect with me:</h2>
 
