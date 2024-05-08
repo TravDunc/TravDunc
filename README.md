@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 - <a href="https://github.com/TravDunc/">"FizzBuzz"</a>
-
+- <a href="https://github.com/TravDunc/Number-Guessing-Game">"Number-Guessing-Game"</a>
 
 <h2> 🤳 Connect with me:</h2>
 
