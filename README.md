@@ -2,6 +2,8 @@
 
 **'Information Security Professional'**
 
+I'm an information security professional with experience managing the cybersecurity program protecting the classified and unclassified networks of an Air Force base.
+
 <h3>Certifications / Credentials / Education</h3>
 Certified Information Systems Security Professional (CISSP)
 Certified Information Security Manager (CISM)
