@@ -11,10 +11,10 @@ https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%2
 
 
 <h3>Certifications / Credentials / Education</h3>
-Certified Information Systems Security Professional (CISSP)
-Certified Information Security Manager (CISM)
-CompTIA Advanced Security Practicioner (CASP+)
-Master of Science, Cybersecurity and Information Assurance (Western Governors University)
+Certified Information Systems Security Professional (CISSP)<br>
+Certified Information Security Manager (CISM)<br>
+CompTIA Advanced Security Practicioner (CASP+)<br>
+Master of Science, Cybersecurity and Information Assurance (Western Governors University)<br>
 Department of Defense Secret security clearance
 
 <h2>👨‍💻 Python Projects:</h2>
