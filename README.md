@@ -1,4 +1,13 @@
-<h1>Hello, I'm Travis! <br/><a href="https://github.com/TravDunc">Github User</a>, Certified Information Systems Security Professional (CISSP)</h1>
+# Travis Duncan
+
+**'Information Security Professional'**
+
+<h3>Certifications / Credentials / Education</h3>
+Certified Information Systems Security Professional (CISSP)
+Certified Information Security Manager (CISM)
+CompTIA Advanced Security Practicioner (CASP+)
+Master of Science, Cybersecurity and Information Assurance (Western Governors University)
+Department of Defense Secret security clearance
 
 <h2>👨‍💻 Python Projects:</h2>
 - <a href="https://github.com/TravDunc/">FizzBuzz</a>
@@ -11,18 +20,6 @@
 <a href="https://travdunc.github.io">My Website</a>
 
 <!--
-**TravDunc/TravDunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: <href>https://www.linkedin.com/in/travis-w-duncan/</href>
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
 <h2>👨‍💻 Azure Projects:</h2>
 - <b>Cloud SIEM Practice (Azure, Sentinel, Virtualization, Log Training/Parsing)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/TravDunc/Sentinel-Lab)
