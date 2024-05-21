@@ -6,9 +6,8 @@ I'm an information security professional with experience managing the cybersecur
 
 <h3>Certifications / Credentials / Education</h3>
 <a href="https://www.credly.com/badges/3da2dd71-ab8d-4b26-98b3-eca3272a5356"><img src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%20Security%20Professional-CISSP-darkgreen.svg?logo=isc2&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%20Security%20Professional-CISSP-green.svg?logo=isc2&amp;logoColor=white" style="max-width: 100%;"></a><br>
-<a href="https://www.credly.com/badges/3da2dd71-ab8d-4b26-98b3-eca3272a5356"><img src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Security%20Manager-CISM-green.svg?logo=isaca&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%20Security%20Professional-CISSP-green.svg?logo=isc2&amp;logoColor=white" style="max-width: 100%;"></a>
-
-CompTIA Advanced Security Practicioner (CASP+)<br>
+<a href="https://www.credly.com/badges/3da2dd71-ab8d-4b26-98b3-eca3272a5356"><img src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Security%20Manager-CISM-green.svg?logo=isaca&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Security%20Manager-CISM-green.svg?logo=isaca&amp;logoColor=white" style="max-width: 100%;"></a><br>
+<a href="https://www.credly.com/badges/3da2dd71-ab8d-4b26-98b3-eca3272a5356"><img src="https://custom-icon-badges.demolab.com/badge/CompTIA%20Advanced%20Security%20Professional-CASP+-red.svg?logo=comptia&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/CompTIA%20Advanced%20Security%20Professional-CASP+-red.svg?logo=comptia&amp;logoColor=white" style="max-width: 100%;"></a><br>
 Master of Science, Cybersecurity and Information Assurance (Western Governors University)<br>
 Department of Defense Secret security clearance
 
