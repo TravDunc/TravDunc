@@ -6,7 +6,7 @@ I'm an information security professional with experience managing the cybersecur
 
 https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%20Security%20Profeesional-CISSP-green.svg?logo=isc2&logoColor=white
 
-<img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=isc2&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=isc2&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%20Security%20Profeesional-CISSP-green.svg?logo=isc2&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Certified%20Information%20Systems%20Security%20Profeesional-CISSP-green.svg?logo=isc2&amp;logoColor=white" style="max-width: 100%;">
 
 <h3>Certifications / Credentials / Education</h3>
 Certified Information Systems Security Professional (CISSP)
