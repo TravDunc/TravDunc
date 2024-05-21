@@ -4,7 +4,7 @@
 
 I'm an information security professional with experience managing the cybersecurity program protecting the classified and unclassified networks of an Air Force base.
 
-<a href="https://custom-icon-badges.demolab.com/badge/custom-badge-green.svg?logo=isc2&logoColor=white"><a>
+https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=isc2&logoColor=white
 
 <h3>Certifications / Credentials / Education</h3>
 Certified Information Systems Security Professional (CISSP)
