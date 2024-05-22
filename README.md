@@ -2,8 +2,6 @@
 
 <strong>Information Security Professional</strong>
 
-I'm an information security professional with experience managing the cybersecurity program protecting the classified and unclassified networks of an Air Force base.
-
 I'm an Information Systems Security Manager and United States Air Force veteran. I have experience in multiple information systems environments, including the U.S. Air Force, U.S. Army, and a credit union. He has protected multi-million dollar infrastructures from cybersecurity threats .
 
 <h3>Credentials</h3>
