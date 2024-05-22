@@ -1,6 +1,6 @@
 # Travis Duncan
 
-**Information Security Professional**
+<strong>Information Security Professional</strong>
 
 I'm an information security professional with experience managing the cybersecurity program protecting the classified and unclassified networks of an Air Force base.
 
