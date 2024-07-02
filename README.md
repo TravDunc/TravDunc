@@ -11,7 +11,7 @@ I'm an Information Systems Security Manager and United States Air Force veteran.
 <a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/WGU-MS%20in%20Cybersecurity%20and%20Information%20Assurance-darkblue.svg?logo=wgu&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
 <a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/DoD-Secret%20security%20clearance-white.svg?logo=dod&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
 
-<h2>👨‍💻 Python Projects:</h2>
+<h2>👨🏼‍💻 Python Projects:</h2>
 - <a href="https://github.com/TravDunc/">FizzBuzz</a>
 <br>
 - <a href="https://github.com/TravDunc/Number-Guessing-Game">Number-Guessing-Game</a>
