@@ -16,6 +16,9 @@ I'm an Information Systems Security Manager and United States Air Force veteran.
 <br>
 - <a href="https://github.com/TravDunc/Number-Guessing-Game">Number-Guessing-Game</a>
 
+<h2>👨🏼‍💻 Cyber Trav's Windows Terminal Themes:</h2>
+- <a href="https://github.com/TravDunc/Windows-Terminal-Settings">Windows Terminal Settings</a>
+
 <h2> 🤳 Connect with me:</h2>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="travis-w-duncan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/travis-w-duncan?trk=profile-badge">Travis Duncan</a></div>
