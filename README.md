@@ -2,7 +2,7 @@
 
 <strong>Information Security Professional</strong>
 
-I'm an Information Systems Security Manager and United States Air Force veteran. I have experience in multiple information systems environments, including the U.S. Air Force, U.S. Army, and a credit union. He has protected multi-million dollar infrastructures from cybersecurity threats .
+I'm an Information System Security Manager and United States Air Force veteran. I have experience in multiple information systems environments, including the U.S. Air Force, U.S. Army, and a credit union. He has protected multi-million dollar infrastructures from cybersecurity threats .
 
 <h2>🤳 Connect with me:</h2>
 
