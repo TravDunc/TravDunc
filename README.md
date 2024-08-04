@@ -4,6 +4,11 @@
 
 I'm an Information Systems Security Manager and United States Air Force veteran. I have experience in multiple information systems environments, including the U.S. Air Force, U.S. Army, and a credit union. He has protected multi-million dollar infrastructures from cybersecurity threats .
 
+<h2>🤳 Connect with me:</h2>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="travis-w-duncan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/travis-w-duncan?trk=profile-badge">LinkedIn</a></div>
+<a href="https://travdunc.github.io">My Website</a>
+
 <h3>Credentials</h3>
 <a href="https://www.credly.com/badges/3da2dd71-ab8d-4b26-98b3-eca3272a5356" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/%20-CISSP-darkgreen.svg?logo=isc2&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
 <a href="https://www.credly.com/badges/8dac8a06-9380-41e0-819f-c422c4b58a48" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/ISACA-CISM-green.svg?logo=isaca&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/ISACA-CISM-green.svg?logo=isaca&amp;logoColor=white" style="max-width: 100%;"></a><br>
@@ -20,10 +25,6 @@ I'm an Information Systems Security Manager and United States Air Force veteran.
 <h2>💻 Windows Terminal:</h2>
 - <a href="https://github.com/TravDunc/Windows-Terminal-Settings">Windows Terminal Settings</a>
 
-<h2>🤳 Connect with me:</h2>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="travis-w-duncan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/travis-w-duncan?trk=profile-badge">LinkedIn</a></div>
-<a href="https://travdunc.github.io">My Website</a>
 
 <!--
 <h2>👨‍💻 Azure Projects:</h2>
