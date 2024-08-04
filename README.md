@@ -20,9 +20,9 @@ I'm an Information Systems Security Manager and United States Air Force veteran.
 <h2>👨🏼‍💻 GitHub Repositories</h2>
 
 <h3>🐍 Python </h2>
-- <a href="https://github.com/TravDunc/">FizzBuzz</a>
-<br>
-- <a href="https://github.com/TravDunc/Number-Guessing-Game">Number-Guessing-Game</a>
+- <a href="https://github.com/TravDunc/">FizzBuzz</a><br>
+- <a href="https://github.com/TravDunc/Number-Guessing-Game">Number-Guessing-Game</a><br>
+- <a href="https://github.com/TravDunc/Simple-Band-Name-Generator">Simple-Band-Name-Generator</a>
 
 <h3>💻 Windows Terminal </h2>
 - <a href="https://github.com/TravDunc/Windows-Terminal-Settings">Windows Terminal Settings</a>
