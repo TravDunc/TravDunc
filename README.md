@@ -17,7 +17,7 @@ I'm an Information Systems Security Manager and United States Air Force veteran.
 <br>
 - <a href="https://github.com/TravDunc/Number-Guessing-Game">Number-Guessing-Game</a>
 
-<h2>💻 Windows Terminal Themes:</h2>
+<h2>💻 Windows Terminal:</h2>
 - <a href="https://github.com/TravDunc/Windows-Terminal-Settings">Windows Terminal Settings</a>
 
 <h2>🤳 Connect with me:</h2>
