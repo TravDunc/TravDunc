@@ -4,6 +4,8 @@
 
 I'm an Information System Security Manager and United States Air Force veteran. I have experience in multiple information systems environments, including the U.S. Air Force, U.S. Army, and a credit union. He has protected multi-million dollar infrastructures from cybersecurity threats .
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 <h2>🤳 Connect with me:</h2>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="travis-w-duncan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/travis-w-duncan?trk=profile-badge" target="_blank" rel="noreferrer noopener">LinkedIn</a></div>
