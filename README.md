@@ -16,8 +16,9 @@ I build security and compliance systems that scale with engineering velocity. My
 ## Technical Stack
 **Cloud:** AWS (Config, Security Hub, IAM, SCPs, CloudFormation), Azure  
 **Automation:** Python, PowerShell, AWS CLI, Infrastructure-as-Code  
-**Security Frameworks:** NIST 800-53, RMF, ISO 27001, SOC, CIS Benchmarks  
-**Data Engineering:** SQL, Excel PowerQuery, ETL pipelines
+**Security Frameworks** _(hands-on)_: NIST 800-53, RMF <br/> 
+**Security Frameworks** _(working knowledge)_: ISO 27001, CIS, SOC2 <br/>
+**Data Engineering:** Excel PowerQuery 
 
 ## Background
 8+ years securing cloud infrastructure and leading GRC programs. Former US Air Force cybersecurity leader managing 34,000 systems across $350M infrastructure. Now focused on building security platforms that enable teams to move fast without breaking compliance.
