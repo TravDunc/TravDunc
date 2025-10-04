@@ -1,35 +1,26 @@
 # Travis Duncan
+**Security Platform Engineer | Cloud GRC Automation**
 
-<strong>Information Security Professional</strong>
+I build security and compliance systems that scale with engineering velocity. My work focuses on embedding governance into CI/CD pipelines, infrastructure-as-code, and observability platforms—making compliance a byproduct of good engineering, not a bottleneck.
 
-Information System Security Manager and United States Air Force veteran. Has protected multi-million dollar infrastructures from cybersecurity threats.
+## What I'm Building
 
-<h2>🤳 Connect with me:</h2>
+**AWS Security & Governance Automation**
+- [Secure S3 Deployment with CloudFormation](https://github.com/TravDunc/AWS-CloudFormation-Secure-S3-Bucket) – IaC template with encryption, versioning, and compliance controls baked in
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="travis-w-duncan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/travis-w-duncan?trk=profile-badge" target="_blank" rel="noreferrer noopener">LinkedIn</a></div>
-<a href="https://travdunc.github.io" target="_blank" rel="noreferrer noopener">My Website</a>
+**Impact from Recent Work:**
+- Reduced vulnerability index 63% (10.63 → 3.89) in 60 days for $7B AWS financial platform
+- Automated vulnerability reporting with Python/PowerQuery, accelerating patching by 1-2 days weekly
+- Prevented system authorization loss by reversing non-compliant policy for two mission-critical environments
 
-<h2>Credentials</h2>
-<a href="https://www.credly.com/badges/3da2dd71-ab8d-4b26-98b3-eca3272a5356" target="_blank" rel="noreferrer noopener"><img src="https://custom-icon-badges.demolab.com/badge/%20-CISSP-%23458435.svg?logo=isc2&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
-<a href="https://www.credly.com/badges/8dac8a06-9380-41e0-819f-c422c4b58a48" target="_blank" rel="noreferrer noopener"><img src="https://custom-icon-badges.demolab.com/badge/ISACA-CISM-green.svg?logo=isaca&amp;logoColor=white" alt="img" data-canonical-src="https://custom-icon-badges.demolab.com/badge/ISACA-CISM-%2368AD43.svg?logo=isaca&amp;logoColor=white" style="max-width: 100%;"></a><br>
-<a href="https://www.credly.com/badges/775f8c9a-8b92-425d-8719-932e30e745a4/public_url" target="_blank" rel="noreferrer noopener"><img src="https://custom-icon-badges.demolab.com/badge/%20-CGRC-%235466AE.svg?logo=isc2&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
-<a href="https://www.credly.com/badges/61e3e802-44a4-44ee-bed0-e454833010d7" target="_blank" rel="noreferrer noopener"><img src="https://custom-icon-badges.demolab.com/badge/-CASP+-%23C8202F.svg?logo=comptia&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
-<a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html" target="_blank" rel="noreferrer noopener"><img src="https://custom-icon-badges.demolab.com/badge/WGU-MS%20in%20Cybersecurity%20and%20Information%20Assurance-%23193758.svg?logo=wgu&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
-<a href="https://www.dcsa.mil/" target="_blank" rel="noreferrer noopener"><img src="https://custom-icon-badges.demolab.com/badge/DoD-Secret%20security%20clearance-white.svg?logo=dod&amp;logoColor=white" alt="img" style="max-width: 100%;"></a><br>
+## Technical Stack
+**Cloud:** AWS (Config, Security Hub, IAM, SCPs, CloudFormation), Azure  
+**Automation:** Python, PowerShell, AWS CLI, Infrastructure-as-Code  
+**Security Frameworks:** NIST 800-53, RMF, ISO 27001, SOC, CIS Benchmarks  
+**Data Engineering:** SQL, Excel PowerQuery, ETL pipelines
 
-<h2>👨🏼‍💻 GitHub Repositories</h2>
+## Background
+8+ years securing cloud infrastructure and leading GRC programs. Former US Air Force cybersecurity leader managing 34,000 systems across $350M infrastructure. Now focused on building security platforms that enable teams to move fast without breaking compliance.
 
-<h3>🐍 Python </h2>
-• <a href="https://github.com/TravDunc/" target="_blank" rel="noreferrer noopener">FizzBuzz</a><br>
-• <a href="https://github.com/TravDunc/Number-Guessing-Game" target="_blank" rel="noreferrer noopener">Number-Guessing-Game</a><br>
-• <a href="https://github.com/TravDunc/Simple-Band-Name-Generator" target="_blank" rel="noreferrer noopener">Simple-Band-Name-Generator</a>
-
-<h3>💻 Windows Terminal </h2>
-• <a href="https://github.com/TravDunc/Windows-Terminal-Settings" target="_blank" rel="noreferrer noopener">Windows Terminal Settings</a>
-
-
-<!--
-<h2>👨‍💻 Azure Projects:</h2>
-- <b>Cloud SIEM Practice (Azure, Sentinel, Virtualization, Log Training/Parsing)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/TravDunc/Sentinel-Lab)
--->
+CISSP | CCSP | CISM | CGRC | MS Cybersecurity  
+[LinkedIn](https://www.linkedin.com/in/travis-w-duncan) • [Website](https://travdunc.github.io)
